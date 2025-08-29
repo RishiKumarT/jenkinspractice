@@ -64,7 +64,7 @@
 	</dependencies>
 
 	<build>
-	<finalname>ecombackend</finalname>
+	<finalName>ecombackend</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
