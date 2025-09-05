@@ -12,7 +12,7 @@ import com.rishi.ecom.service.ProductService;
 
 @RestController
 @RequestMapping("/productapi")
-@CrossOrigin(origins = "*")
+@CrossOrigin(origins = "http://localhost:5173", allowCredentials = "true")
 public class ProductController {
 
     @Autowired

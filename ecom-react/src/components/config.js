@@ -1,5 +1,5 @@
 const config = {
-    url: "http://localhost:2030/ecombackend"
+    url: "http://localhost:2004/ecombackend"
 }
 
 export default config;
